@@ -1,0 +1,17 @@
+{
+  "name": "advice-generator-app-main",
+  "version": "1.0.0",
+  "description": "advice-generator-app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ania-ska",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
